@@ -12,10 +12,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ethanberke&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
-
 
 <div align="center">
 <strong>Client:</strong> JavaScript, React.js, Vite, HTML, CSS </br>
