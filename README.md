@@ -1,53 +1,61 @@
-<h1></h1>
+# Hi, I'm Ethan.
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Ethan.;I'm+a+full+stack+developer;Based+in+Lincoln,+NE&center=true&width=500&height=75">
-  
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Ethan.;I'm+a+full+stack+developer;Based+in+Lincoln,+NE&center=true&width=500&height=75">
   </a>
 </p>
 
 <div align="center">
-
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" />](https://www.postgresql.org/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" alt="Express" />](https://expressjs.com/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" />](https://react.dev/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" />](https://nodejs.org/en/)
-
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" alt="Express" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" />
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" />
+  </a>
 </div>
 
-
 <div align="center">
-<strong>Client:</strong> JavaScript, React.js, Vite, HTML, CSS </br>
-<strong>Server:</strong> Node.js, Express.js, PostgreSQL </br>
-<strong>Testing & Deployment:</strong> Docker, Vitest </br>
-<strong>Development:</strong> Git, CI/CD, UI/UX, Agile </br>
+  <strong>Client:</strong> JavaScript, React.js, Vite, HTML, CSS </br>
+  <strong>Server:</strong> Node.js, Express.js, PostgreSQL </br>
+  <strong>Testing & Deployment:</strong> Docker, Vitest </br>
+  <strong>Development:</strong> Git, CI/CD, UI/UX, Agile </br>
 </div>
 <br>
 <div align="center">
-
-
 </div>
 
 ---
 
 ## 🎖 About Me
 
-🔹 **Former Musician, Sergeant, United States Army**  
-As a Noncommissioned Officer with the United States Army, I've spent the four years honing my leadership skills, strategic thinking, and commitment to excellence to military music, military traditions, and public relations.  I have performed for embassies across Lithuania and Estonia, performed public concerts in Poland and Latvia, and for military ceremonies across the United States.  The experiences, places I have traveled to, and the people I had the honor to work with will leave an everlasting impact on me.
+🔹 **Former Musician & Sergeant, United States Army**  
+During my tenure as a Noncommissioned Officer in the United States Army, I honed my leadership, strategic thinking, and commitment to excellence through military music, traditions, and public relations. I've had the privilege of performing for embassies across Lithuania and Estonia, as well as public concerts in Poland and Latvia. These experiences, diverse locations, and collaborations have left an indelible impact on me.
 
-🔹 **Music Education Acumen**  
-Before my time in the military, I studied Music Education at the University of North Texas, specializing in teaching private lessons as well as Middle and High School Band. During my undergraduate career at UNT, I competed as a finalist in the National Trumpet Competition in the Large Ensemble Division, performed at the Texas Music Education Association convention twice, and recorded in three commercially released CDs with the North Texas Wind Symphony and Symphonic Band.
+🔹 **Music Education Background**  
+Prior to my military service, I pursued Music Education at the University of North Texas. Specializing in teaching private lessons and Middle/High School Band, I was a finalist in the National Trumpet Competition's Large Ensemble Division. Additionally, I performed at the Texas Music Education Association convention and contributed to three commercially released CDs with the North Texas Wind Symphony and Symphonic Band.
 
-🔹 **How does this apply to Software Engineering?**  
-Software Engineering requires a growth mindset, structure, creativity, and teamplaying skills.  Playing music at a professional level requires all of those skills.  During rehearsals, I have to communicate clearly, yet tactfully, with my fellow musicians.  I also have to constantly analyze what I am hearing while also focusing on performing my parts.  There is also a demand to adhere to a time period's musical style while also incorporating my own nuance and ideas to make each piece both authentic and authentic.
+🔹 **Applying Music Skills to Software Engineering**  
+Playing music professionally demanded a growth mindset, structure, creativity, and teamwork—skills integral to Software Engineering. Requiring clear yet tactful communication during rehearsals, analyzing auditory cues while focusing on performance, and blending historical musical styles with personal nuances mirror the demands of software development.
 
 ---
 
 ## 🌐 Let's Connect!
 
-I'm passionate about:
+Passionate about:
 - #veterans 🎗
-- #livemusic
-- #classicalmusic
-- #supportinglocalarts
+- #livemusic 🎵
+- #classicalmusic 🎻
+- #supportinglocalarts 🎨
 
-I believe in the power of these communities and want to find new ways to support them in new and innovative ways.
+I firmly believe in the strength of these communities and strive to discover innovative ways to support and contribute to their growth.
 
-🔗 [Let's Connect](https://www.linkedin.com/in/ethan-berkebile/))  
+🔗 [Let's Connect on LinkedIn](https://www.linkedin.com/in/ethan-berkebile/)
+
+
