@@ -22,14 +22,32 @@
 <br>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanberke&layout=donut-vertical)](https://github.com/ethanberke/github-readme-stats)
 
 </div>
 
-<div align="center">
+---
 
-<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=shannonscotta&hide_border=true&border_radius=0&card_width=400)](https://git.io/streak-stats)
+## 🎖 About Me
 
-Let's connect! [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/ethan-berkebile)  -->
+🔹 **Former Musician, Sergeant, United States Army**  
+As a Noncommissioned Officer with the United States Army, I've spent the four years honing my leadership skills, strategic thinking, and commitment to excellence to military music, military traditions, and public relations.  I have performed for embassies across Lithuania and Estonia, performed public concerts in Poland and Latvia, and for military ceremonies across the United States.  The experiences, places I have traveled to, and the people I had the honor to work with will leave an everlasting impact on me.
 
-</div>
+🔹 **Music Education Acumen**  
+Before my time in the military, I studied Music Education at the University of North Texas, specializing in teaching private lessons as well as Middle and High School Band. During my undergraduate career at UNT, I competed as a finalist in the National Trumpet Competition in the Large Ensemble Division, performed at the Texas Music Education Association convention twice, and recorded in three commercially released CDs with the North Texas Wind Symphony and Symphonic Band.
+
+🔹 **How does this apply to Software Engineering?**  
+Software Engineering requires a growth mindset, structure, creativity, and teamplaying skills.  Playing music at a professional level requires all of those skills.  During rehearsals, I have to communicate clearly, yet tactfully, with my fellow musicians.  I also have to constantly analyze what I am hearing while also focusing on performing my parts.  There is also a demand to adhere to a time period's musical style while also incorporating my own nuance and ideas to make each piece both authentic and authentic.
+
+---
+
+## 🌐 Let's Connect!
+
+I'm passionate about:
+- #veterans 🎗
+- #livemusic
+- #classicalmusic
+- #supportinglocalarts
+
+I believe in the power of these communities and want to find new ways to support them in new and innovative ways.
+
+🔗 [Let's Connect](https://www.linkedin.com/in/ethan-berkebile/))  
