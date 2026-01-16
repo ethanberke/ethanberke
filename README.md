@@ -32,6 +32,8 @@
 ---
 
 ## 🎖 About Me
+🔹 **Currently a Software Engineer at SAIC**
+I currently collaborate on an agile team that consists of multiple software engineers, a system administrator, a cyber security engineer, and a product owner.  While we mostly use Python and MongoDB, I am also passionate about creating full stack applications with Typescript, React, and PostgreSQL. While we do work in a hybrid environment, we love coordinating coming in on the same days to maximize in person pair programming, bouncing ideas off of each other, and nerding out over all things tech!
 
 🔹 **Former Musician & Sergeant, United States Army**  
 During my tenure as a Noncommissioned Officer in the United States Army, I honed my leadership, strategic thinking, and commitment to excellence through military music, traditions, and public relations. I've had the privilege of performing for embassies across Lithuania and Estonia, as well as public concerts in Poland and Latvia. These experiences, diverse locations, and collaborations have left an indelible impact on me.
